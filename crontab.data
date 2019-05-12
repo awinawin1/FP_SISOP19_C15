@@ -1,0 +1,2 @@
+* * * * * /bin/cp /home/awin/fp/haha.txt /home/awin/fp/hihi.txt
+6 * * * * /bin/cp /home/awin/fp/aww.txt /home/awin/fp/awwin.txt
